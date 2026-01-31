@@ -87,18 +87,6 @@ Each test included **null hypothesis, alternative hypothesis, and decision logic
 
 ---
 
-## 🤖 Price Prediction (Machine Learning)
-
-- Built a **Linear Regression model** to predict used-car prices
-- Applied **one-hot encoding** for categorical features
-- Evaluated model using:
-  - R² Score
-  - MAE
-  - RMSE
-- Used **log-transformed price** to handle skewness and improve performance
-
----
-
 ## ✅ Key Insights
 
 - Newer cars command significantly higher prices
@@ -133,7 +121,6 @@ Each test included **null hypothesis, alternative hypothesis, and decision logic
 ## 📌 Future Enhancements
 
 - Deploy price prediction as a web app (Streamlit)
-- Add more advanced models (Random Forest, XGBoost)
 - Expand dataset across multiple platforms
 - Include seller-side pricing recommendations
 
